@@ -9,6 +9,7 @@ Analysis of U.S.A Abortion rates from 2019 - 2020, and change in the access to a
 * pandas
 * Plotly
 * Matplotlib
+* Jupyter Notebook 
 
 # Getting Started
 
